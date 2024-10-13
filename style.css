@@ -136,4 +136,19 @@ button {
     border-radius: 50%;
     margin: 15px 6px 0;
     text-align: center;
+    transition: .5s;
+}
+.social-icons a:hover {
+    background: #fff;
+}
+
+.social-icons a i {
+    color: #fff;
+    font-size: 14px;
+    line-height: 35px;
+    transition: .5s;
+}
+
+.social-icons a:hover i {
+    color: #444;
 }
